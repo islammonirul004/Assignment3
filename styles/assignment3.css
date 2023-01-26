@@ -1,0 +1,13 @@
+.btn-clr {
+    background-color: #B68C5A;
+    width: 160px;
+    height: 44px;
+    border: none;
+    border-radius: 5px;
+    color: #ffffff;
+}
+.banner-img{
+    background-image: url(../images/banner.png);
+    height: 550px;
+    border-radius: 5px;
+}
